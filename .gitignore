@@ -1,0 +1,3 @@
+ignored_file.txt
+*.css
+*.php !index.php
